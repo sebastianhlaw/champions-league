@@ -44,6 +44,6 @@ fabric.properties
 .gitignore
 .idea/
 Champions League.xlsm
-main.py
+championsleague.py
 ~$Champions League.xlsm
 /~$Champions League.xlsm
